@@ -59,10 +59,9 @@ public class Person {
     }
 
 
-
     public void happyBirthday() {
-        if (this.hasAge()){
-            age+=1;
+        if (this.hasAge()) {
+            age += 1;
         }
     }
 
